@@ -49,6 +49,7 @@ h1{
     width: 960px; 
     margin: 0 auto;
     margin-bottom:5%;
+    border-radius:5%;
 }
 
 #small{
@@ -57,6 +58,7 @@ h1{
     margin: 0 auto;
     margin-bottom:5%;
     margin-top:1%;
+    border-radius:5%;
 }
 #kirby{
     border: 1px solid #ddd;
@@ -118,5 +120,13 @@ a:link{
     color:rgb(49, 80, 55);
     border: width 15px;
     border-radius:5%;
+
+}
+
+#balling{
+    width:500px;
+    height : auto;
+    float:inline-center;
+    padding:15px;
 
 }
